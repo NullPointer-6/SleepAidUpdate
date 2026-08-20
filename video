@@ -132,6 +132,69 @@
         }
       },
       "episodePayInfo": { "payType": 0 }
+    },
+    {
+      "vid": "v02ep03",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "videoModel": null,
+      "playAuthToken": null,
+      "subtitleAuthToken": null,
+      "subtitleModel": null,
+      "caption": null,
+      "duration": 110.0,
+      "coverUrl": "https://p3.ssl.qhimgs1.com/t04cd8594bb8254952d.jpg",
+      "episodeInfo": {
+        "episodeNumber": 2,
+        "episodeDesc": "第2集：复仇",
+        "dramaInfo": {
+          "dramaId": "drama002",
+          "dramaTitle": "千金归来11111111",
+          "totalEpisodeNumber": 15
+        }
+      },
+      "episodePayInfo": { "payType": 0 }
+    },
+    {
+      "vid": "v02ep04",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
+      "videoModel": null,
+      "playAuthToken": null,
+      "subtitleAuthToken": null,
+      "subtitleModel": null,
+      "caption": null,
+      "duration": 110.0,
+      "coverUrl": "https://p3.ssl.qhimgs1.com/t04cd8594bb8254952d.jpg",
+      "episodeInfo": {
+        "episodeNumber": 2,
+        "episodeDesc": "第2集：复仇",
+        "dramaInfo": {
+          "dramaId": "drama002",
+          "dramaTitle": "千金归来222222222",
+          "totalEpisodeNumber": 15
+        }
+      },
+      "episodePayInfo": { "payType": 0 }
+    },
+    {
+      "vid": "v02ep05",
+      "videoUrl": "http://vjs.zencdn.net/v/oceans.mp4",
+      "videoModel": null,
+      "playAuthToken": null,
+      "subtitleAuthToken": null,
+      "subtitleModel": null,
+      "caption": null,
+      "duration": 110.0,
+      "coverUrl": "https://p3.ssl.qhimgs1.com/t04cd8594bb8254952d.jpg",
+      "episodeInfo": {
+        "episodeNumber": 2,
+        "episodeDesc": "第2集：复仇",
+        "dramaInfo": {
+          "dramaId": "drama002",
+          "dramaTitle": "千金归来33333333",
+          "totalEpisodeNumber": 15
+        }
+      },
+      "episodePayInfo": { "payType": 0 }
     }
   ]
 }
